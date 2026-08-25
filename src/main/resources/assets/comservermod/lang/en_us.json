@@ -1,4 +1,11 @@
 {
   "enchantment.comservermod.reinforced_breaker": "Reinforced Breaker",
-  "creativetab.comservermod.comserver_tab": "ComServer Mod"
+  "creativetab.comservermod.comserver_tab": "ComServer Mod",
+
+  "jei.comservermod.info.reinforced_breaker": "Lets a pickaxe mine Reinforced Deepslate about 12x faster and makes the block drop itself. It does nothing on any other block. Only obtainable from its own recipe - it never shows up in the enchanting table, in chest loot or in villager trades.",
+  "jei.comservermod.info.reinforced_deepslate": "Generates only in Ancient Cities and drops nothing in vanilla. No tool speeds it up, so breaking one takes 82 seconds. With a Reinforced Breaker pickaxe it takes about 7 seconds and the block drops itself.",
+  "jei.comservermod.info.sulfur": "Sulfur and Sulfur Spikes generate only in the Sulfur Caves biome. That biome does not exist anywhere in this world's already generated chunks, so the pufferfish recipe is the replacement path.",
+  "jei.comservermod.info.cinnabar": "Cinnabar generates only in the Sulfur Caves biome and is therefore out of reach in this world. Craft it from Sulfur and Redstone instead.",
+  "jei.comservermod.info.pale_oak_sapling": "Pale Oak grows only in the Pale Garden, a biome that does not exist anywhere in this world's already generated chunks. Bleach a Dark Oak Sapling with White Dye instead. Note: a tree grown from a sapling never contains a Creaking Heart.",
+  "jei.comservermod.info.lightning_rod": "Normally made by using an Energized Core on a Lightning Rod during a thunderstorm. Weather2 suppresses vanilla thunderstorms on this server, so that ritual can never trigger - which is what this recipe is for."
 }

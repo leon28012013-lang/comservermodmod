@@ -3,27 +3,20 @@
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "jurassicreborn"
-    },
-    {
-      "type": "neoforge:mod_loaded",
       "modid": "vanillabackport"
     }
   ],
   "category": "misc",
   "ingredients": [
     {
-      "item": "jurassicreborn:dna_base_material"
-    },
-    {
       "item": "minecraft:sulfur"
     },
     {
-      "item": "minecraft:bucket"
+      "item": "minecraft:redstone"
     }
   ],
   "result": {
-    "id": "minecraft:sulfur_cube_bucket",
+    "id": "minecraft:cinnabar",
     "count": 1
   }
 }

@@ -7,16 +7,17 @@
     }
   ],
   "category": "misc",
+  "group": "pale_oak_sapling",
   "ingredients": [
     {
-      "item": "minecraft:stone"
+      "item": "minecraft:dark_oak_sapling"
     },
     {
-      "item": "minecraft:sulfur"
+      "item": "minecraft:white_dye"
     }
   ],
   "result": {
-    "id": "minecraft:cinnabar",
-    "count": 4
+    "id": "minecraft:pale_oak_sapling",
+    "count": 1
   }
 }

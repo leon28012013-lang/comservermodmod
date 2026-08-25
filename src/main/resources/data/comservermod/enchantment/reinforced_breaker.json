@@ -2,8 +2,7 @@
   "description": {
     "translate": "enchantment.comservermod.reinforced_breaker"
   },
-  "supported_items": "#minecraft:enchantable/mining",
-  "primary_items": "#minecraft:pickaxes",
+  "supported_items": "#minecraft:pickaxes",
   "weight": 2,
   "max_level": 1,
   "min_cost": {

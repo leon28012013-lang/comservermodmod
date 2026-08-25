@@ -6,14 +6,13 @@ import com.mojang.logging.LogUtils;
 
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
-import net.neoforged.fml.ModContainer;
 
 @Mod(ComServerMod.MODID)
 public class ComServerMod {
     public static final String MODID = "comservermod";
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    public ComServerMod(IEventBus modEventBus, ModContainer modContainer) {
+    public ComServerMod(IEventBus modEventBus) {
         ModCreativeTabs.register(modEventBus);
     }
 }

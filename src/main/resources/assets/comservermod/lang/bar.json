@@ -1,4 +1,11 @@
 {
   "enchantment.comservermod.reinforced_breaker": "Roaßfesta Brecha",
-  "creativetab.comservermod.comserver_tab": "ComServer Kastl"
+  "creativetab.comservermod.comserver_tab": "ComServer Kastl",
+
+  "jei.comservermod.info.reinforced_breaker": "Macht, dass a Hackn vastärktn Tiafnschiefa um a Zwöfaches schnölla obbaut und da Bloh si sölwa dropt. Auf jedm andan Bloh duads goa nix. Gibts nur übas eigane Rezept - im Zaubatisch, in Truhn und beim Dorfhandl kimmt s nia füa.",
+  "jei.comservermod.info.reinforced_deepslate": "Gibts bloß in de Oidn Städt und dropt in Vanilla goa nix. Koa Wearzeig macht n schnölla, oa Bloh dauat oiso 82 Sekundn. Mit da Hackn mim Roaßfestn Brecha sans grod amoi 7 Sekundn, und da Bloh dropt si sölwa.",
+  "jei.comservermod.info.sulfur": "Schwefe und Schwefespitzn gibts bloß im Biom Schwefehöhen. Des Biom gibts in de scho generiatn Chunks vo dera Wöd nirgends - drum da Weg üban Kuglfisch.",
+  "jei.comservermod.info.cinnabar": "Zinnoba gibts bloß im Biom Schwefehöhen und is in dera Wöd oiso ned dazuakemma. Stattdessn kaunst n aus Schwefe und Redstone machn.",
+  "jei.comservermod.info.pale_oak_sapling": "De Blasseichn wachst bloß im Blassn Goatn, an Biom, des wo s in de scho generiatn Chunks vo dera Wöd nirgends gibt. Stattdessn an Schwoazeichn-Setzling mit weißm Farbstoff bleichn. Merk da: A Baam ausm Setzling hod nia a Knoazhearz drin.",
+  "jei.comservermod.info.lightning_rod": "Normal machst da an Blitzstab, indem d bei Gwitta an Energiekern auf an Blitzobleita hernimmst. Weather2 druckt auf dem Serva de Vanilla-Gwitta o, s Ritual kau oiso nia auslesn - genau drum gibts des Rezept."
 }

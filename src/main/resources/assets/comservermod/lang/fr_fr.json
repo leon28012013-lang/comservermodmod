@@ -1,4 +1,11 @@
 {
   "enchantment.comservermod.reinforced_breaker": "Briseur Renforcé",
-  "creativetab.comservermod.comserver_tab": "Mod ComServer"
+  "creativetab.comservermod.comserver_tab": "Mod ComServer",
+
+  "jei.comservermod.info.reinforced_breaker": "Permet à une pioche de miner l'ardoise des abîmes renforcée environ 12 fois plus vite et fait que le bloc se drope lui-même. Sans effet sur tout autre bloc. Uniquement obtenable par sa propre recette - il n'apparaît ni à la table d'enchantement, ni dans le butin, ni chez les villageois.",
+  "jei.comservermod.info.reinforced_deepslate": "Ne se génère que dans les cités antiques et ne drope rien en vanilla. Aucun outil ne l'accélère, un bloc prend donc 82 secondes. Avec une pioche à Briseur Renforcé, environ 7 secondes, et le bloc se drope lui-même.",
+  "jei.comservermod.info.sulfur": "Le soufre et les pointes de soufre ne se génèrent que dans le biome des grottes de soufre. Ce biome n'existe nulle part dans les chunks déjà générés de ce monde - d'où la recette au poisson-globe.",
+  "jei.comservermod.info.cinnabar": "Le cinabre ne se génère que dans le biome des grottes de soufre et reste donc inaccessible dans ce monde. À fabriquer à partir de soufre et de redstone.",
+  "jei.comservermod.info.pale_oak_sapling": "Le chêne pâle ne pousse que dans le jardin pâle, un biome qui n'existe nulle part dans les chunks déjà générés de ce monde. Blanchissez plutôt une pousse de chêne noir avec du colorant blanc. À noter : un arbre issu d'une pousse ne contient jamais de cœur grinçant.",
+  "jei.comservermod.info.lightning_rod": "Normalement, on obtient le bâton de foudre en utilisant un noyau énergisé sur un paratonnerre pendant un orage. Weather2 supprime les orages vanilla sur ce serveur, le rituel ne peut donc jamais se déclencher - c'est précisément à quoi sert cette recette."
 }

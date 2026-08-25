@@ -1,4 +1,11 @@
 {
-  "enchantment.comservermod.reinforced_breaker": "Verstärkete Chnübler",
-  "creativetab.comservermod.comserver_tab": "ComServer Chästli"
+  "enchantment.comservermod.reinforced_breaker": "Verstärchete Chnübler",
+  "creativetab.comservermod.comserver_tab": "ComServer Chästli",
+
+  "jei.comservermod.info.reinforced_breaker": "Macht, dass e Pickel verstärchete Tüfischiefer öppe 12x schnäller abbaut und de Block sich sälber droppt. Uf jedem andere Block bringts nüt. Gits nume über sis eigete Rezäpt - im Zaubertisch, i de Chischte und bim Dörfler-Handel taucht sie nie uf.",
+  "jei.comservermod.info.reinforced_deepslate": "Gits nume i de Antike Städt und droppt i Vanilla gar nüt. Kei Werchzüg macht en schnäller, ei Block duuret also 82 Sekunde. Mit em Verstärchete Chnübler sinds öppe 7 Sekunde, und de Block droppt sich sälber.",
+  "jei.comservermod.info.sulfur": "Schwefel und Schwefelspitze wachsed nume im Biom Schwefelhöhlene. Das Biom gits i de scho generierte Chunks vo dere Wält niene - drum de Wäg über de Chugelfisch.",
+  "jei.comservermod.info.cinnabar": "Zinnober gits nume im Biom Schwefelhöhlene und isch i dere Wält also nid z'erreiche. Statt dem chamers us Schwefel und Redstone mache.",
+  "jei.comservermod.info.pale_oak_sapling": "D'Blasseiche wachst nume im Blasse Garte, eme Biom, wo's i de scho generierte Chunks vo dere Wält niene git. Statt dem en Schwarzeiche-Setzling mit wysem Farbstoff bleiche. Achtung: En Baum us em Setzling het nie es Chnarrhärz dinne.",
+  "jei.comservermod.info.lightning_rod": "Normalerwiis macht mer de Blitzstab, indem mer bi Gwitter en Energiekern uf en Blitzableiter bruucht. Weather2 unterdruckt uf dem Server d'Vanilla-Gwitter, s'Ritual chan also nie uslöse - genau drum gits das Rezäpt."
 }

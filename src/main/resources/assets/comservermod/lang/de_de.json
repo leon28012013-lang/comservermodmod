@@ -1,4 +1,11 @@
 {
   "enchantment.comservermod.reinforced_breaker": "Verstärkter Brecher",
-  "creativetab.comservermod.comserver_tab": "ComServer Mod"
+  "creativetab.comservermod.comserver_tab": "ComServer Mod",
+
+  "jei.comservermod.info.reinforced_breaker": "Lässt eine Spitzhacke verstärkten Tiefenschiefer rund 12x schneller abbauen und den Block sich selbst droppen. Auf jedem anderen Block wirkt die Verzauberung nicht. Nur über das eigene Rezept zu bekommen - sie taucht weder im Zaubertisch noch in Truhen oder im Dorfbewohner-Handel auf.",
+  "jei.comservermod.info.reinforced_deepslate": "Kommt nur in Antiken Städten vor und droppt in Vanilla gar nichts. Kein Werkzeug beschleunigt ihn, ein Block dauert also 82 Sekunden. Mit einer Spitzhacke mit Verstärktem Brecher sind es rund 7 Sekunden, und der Block droppt sich selbst.",
+  "jei.comservermod.info.sulfur": "Schwefel und Schwefelspitzen entstehen nur im Biom Schwefelhöhlen. Dieses Biom gibt es in den bereits generierten Chunks dieser Welt nirgends - deshalb der Weg über den Kugelfisch.",
+  "jei.comservermod.info.cinnabar": "Zinnober entsteht nur im Biom Schwefelhöhlen und ist in dieser Welt damit unerreichbar. Stattdessen aus Schwefel und Redstone herstellbar.",
+  "jei.comservermod.info.pale_oak_sapling": "Die Blasseiche wächst nur im Blassen Garten, einem Biom, das es in den bereits generierten Chunks dieser Welt nirgends gibt. Stattdessen einen Schwarzeichensetzling mit weißem Farbstoff bleichen. Hinweis: Ein aus dem Setzling gewachsener Baum enthält nie ein Knarrherz.",
+  "jei.comservermod.info.lightning_rod": "Normalerweise entsteht der Blitzstab, indem man einen Energiekern bei Gewitter auf einen Blitzableiter benutzt. Weather2 unterdrückt auf diesem Server die Vanilla-Gewitter, das Ritual kann also nie auslösen - genau dafür gibt es dieses Rezept."
 }

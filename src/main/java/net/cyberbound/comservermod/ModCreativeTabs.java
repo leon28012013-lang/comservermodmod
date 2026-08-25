@@ -15,7 +15,7 @@ import java.util.function.Supplier;
 
 public class ModCreativeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
-            DeferredRegister.create(Registries.CREATIVE_MODE_TAB, "comservermod");
+            DeferredRegister.create(Registries.CREATIVE_MODE_TAB, ComServerMod.MODID);
 
     public static final Supplier<CreativeModeTab> COMSERVER_TAB = CREATIVE_MODE_TABS.register("comserver_tab",
             () -> CreativeModeTab.builder()
