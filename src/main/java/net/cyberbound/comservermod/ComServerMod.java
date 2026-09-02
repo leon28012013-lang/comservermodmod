@@ -13,6 +13,10 @@ public class ComServerMod {
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public ComServerMod(IEventBus modEventBus) {
+        // Blöcke beim Mod-Event-Bus registrieren
+        ModBlocks.register(modEventBus);
+
+        // Creative Tab registrieren
         ModCreativeTabs.register(modEventBus);
     }
 }

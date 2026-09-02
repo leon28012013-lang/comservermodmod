@@ -2,12 +2,10 @@ package net.cyberbound.comservermod;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.enchantment.EnchantmentHelper;
-import net.minecraft.world.item.enchantment.Enchantments;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
@@ -22,6 +20,15 @@ public class ModCreativeTabs {
                     .title(Component.translatable("creativetab.comservermod.comserver_tab"))
                     .icon(() -> new ItemStack(Items.DIAMOND))
                     .displayItems((parameters, output) -> {
+
+                        // ==================== BLÖCKE ====================
+
+                        // VARIANTE A (Automatisch): Fügt JEDEN Block aus ModBlocks automatisch hinzu!
+                        ModBlocks.BLOCKS.getEntries().forEach(blockHolder -> {
+                            output.accept(blockHolder.get());
+                        });
+
+                        // ==================== VERZAUBERUNGEN ====================
                         parameters.holders().lookup(Registries.ENCHANTMENT).ifPresent(registry -> {
                             registry.get(ModEnchantmentEvents.REINFORCED_BREAKER).ifPresent(holder -> {
                                 ItemStack book = new ItemStack(Items.ENCHANTED_BOOK);
@@ -29,6 +36,7 @@ public class ModCreativeTabs {
                                 output.accept(book);
                             });
                         });
+
                     })
                     .build());
 
